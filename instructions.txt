@@ -1,0 +1,3 @@
+post - > 127.0.0.1/puppy/Sammy (add Sammy to database)
+get - > 127.0.0.1/puppies (get all puppies from database) requires login
+delete - > 127.0.0.1/puppy/Sammy (delete Sammy from database)
