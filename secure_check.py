@@ -1,7 +1,7 @@
 # Realistically this would be a database table!
 from user import User
 
-users = [ User(1,'Jose','mypassword'),
+users = [ User(1,'Chris','mypassword'),
           User(2,'Mimi','secret')]
 
 username_table = {u.username: u for u in users}
